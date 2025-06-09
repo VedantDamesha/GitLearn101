@@ -1,4 +1,4 @@
 # GitLearn101
 Exploring GIT functionalities.
 <br>
-Author - Vedant Damesha
+Author - Vedant Damesha MNIT 
